@@ -1,13 +1,15 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
+title: Architectural Robotics with Perception
+description: This course follows "48-555/48-755: Introduction to Architectural Robotics." The course teaches how robots sense, interpret, and act in the built environment, connecting design intent to fabrication. Students learn the fundamentals of camera and depth, real-time sensor based system workflow, and the deployment of useful techniques. Perception streams are integrated into ROS and MoveIt to build planning scenes, manage frames, and execute perception-guided motion. The labs prioritize reproducible workflows and clear documentation, enabling methods that can be transferred to studio, research and thesis work. The final project invites students to apply a sensing-to-action pipeline to a problem in architectural robotics, such as timber assembly, fixtureless positioning, additive manufacturing, or quality assessment, using their own data and constraints.
+
+Prerequisite: "48-555/48-755: Introduction to Architectural Robotics" or instructor permission; basic Python familiarity and tooling are expected.
+instructor: Jiaying Wei
+year: 2026
 term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+location: MMCH,dFab RobotRoom
+time: Mondays and Wednesdays, 2:00-3:50 PM
+course_id: 48-757
 schedule:
   - week: 1
     date: Feb 5
