@@ -1,8 +1,8 @@
 ---
 layout: course
-title: Introduction to Machine Learning
+title: Introduction to Architectural Robotics
 description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
+instructor: Joshua Bard, Jiaying Wei (TA/CO-INSTRUCT)
 year: 2023
 term: Fall
 location: Main Campus, Room 301
