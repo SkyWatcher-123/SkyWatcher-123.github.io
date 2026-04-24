@@ -498,7 +498,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-architectural-robotics-with-perception",
           title: 'Architectural Robotics with Perception',
-          description: "",
+          description: "This course follows 48-555/48-755 Introduction to Architectural Robotics. The course teaches how robots sense, interpret, and act in the built environment, connecting design intent to fabrication. Students learn the fundamentals of camera and depth, real-time sensor-based system workflow, and the deployment of useful techniques. Perception streams are integrated into ROS and MoveIt to build planning scenes, manage frames, and execute perception-guided motion. The labs prioritize reproducible workflows and clear documentation, enabling methods that can be transferred to studio, research, and thesis work. The final project invites students to apply a sensing-to-action pipeline to a problem in architectural robotics, such as timber assembly, fixtureless positioning, or quality assessment, using their own data and constraints.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
