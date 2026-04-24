@@ -496,8 +496,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
+            },},{id: "teachings-architectural-robotics-with-perception",
+          title: 'Architectural Robotics with Perception',
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
