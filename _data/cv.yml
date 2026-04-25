@@ -31,7 +31,7 @@ cv:
         start_date: 2023
         end_date: -
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
@@ -163,15 +163,6 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
