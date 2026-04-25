@@ -3,7 +3,7 @@ layout: course
 title: F25 Introduction to Architectural Robotics
 description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
 instructor: Joshua Bard, Jiaying Wei (TA/CO-INSTRUCT)
-year: 2023
+year: 2025
 term: Fall
 location: Main Campus, Room 301
 time: Tuesdays and Thursdays, 10:00-11:30 AM
