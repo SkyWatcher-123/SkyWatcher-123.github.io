@@ -115,10 +115,17 @@ cv:
       - name: Perception and Vision
         level: Advanced
         icon: fa-solid fa-camera
-        keywords: depth sensing, point clouds, AprilTag, object detection, segmentation
+        keywords: depth sensing, point clouds, Markers, object detection, segmentation
+
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-robot
+        keywords: Deep learning, imitation learning
 
     Languages:
       - name: Chinese
         summary: Native speaker
       - name: English
-        summary: Fluent
+        summary: Full Professional
+      - name: French
+        summary: Proficient
