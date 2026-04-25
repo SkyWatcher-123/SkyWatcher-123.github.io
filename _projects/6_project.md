@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Multi-robot assembly
+description: FEA for structure assembly
 img:
 importance: 4
 category: fun

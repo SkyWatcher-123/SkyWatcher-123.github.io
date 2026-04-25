@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: perceptive drawing
+description: ITAR Assignment
 img:
 importance: 3
-category: fun
+category: teaching
 ---
 
 Every project has a beautiful feature showcase page.

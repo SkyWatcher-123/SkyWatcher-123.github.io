@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: waste assembly
+description: selected student prject for ARWP
 img: assets/img/6.jpg
 importance: 4
 category: fun
