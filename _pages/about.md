@@ -6,7 +6,7 @@ subtitle: <a href='#'>Carnegie Mellon University</a>
 
 profile:
   align: right
-  image: Vina_Wei_profile.jpeg
+  image: Vina_Wei_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>codelab</p>
