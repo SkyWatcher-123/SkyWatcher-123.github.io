@@ -461,16 +461,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-f25-introduction-to-architectural-robotics",
+          title: 'F25 Introduction to Architectural Robotics',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Introduction-to-architectural-robotics/";
             },},{id: "teachings-architectural-robotics-with-perception",
           title: 'Architectural Robotics with Perception',
           description: "This course follows 48-555/48-755 Introduction to Architectural Robotics. The course teaches how robots sense, interpret, and act in the built environment, connecting design intent to fabrication. Students learn the fundamentals of camera and depth, real-time sensor-based system workflow, and the deployment of useful techniques. Perception streams are integrated into ROS and MoveIt to build planning scenes, manage frames, and execute perception-guided motion. The labs prioritize reproducible workflows and clear documentation, enabling methods that can be transferred to studio, research, and thesis work. The final project invites students to apply a sensing-to-action pipeline to a problem in architectural robotics, such as timber assembly, fixtureless positioning, or quality assessment, using their own data and constraints.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/architectural-robotics-with-perception/";
-            },},{id: "teachings-introduction-to-architectural-robotics",
-          title: 'Introduction to Architectural Robotics',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
