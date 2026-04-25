@@ -465,6 +465,11 @@ ninja.data = [{
           title: 'F25 Introduction to Architectural Robotics',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ITAR-24/";
+            },},{id: "teachings-f25-introduction-to-architectural-robotics",
+          title: 'F25 Introduction to Architectural Robotics',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
               window.location.href = "/teachings/Introduction-to-architectural-robotics/";
             },},{id: "teachings-architectural-robotics-with-perception",
           title: 'Architectural Robotics with Perception',
