@@ -13,6 +13,10 @@ profile:
     <p>MMCH, Carnegie Mellon University</p>
     <p>Pittsburgh, PA 15213</p>
 
+<p style="margin-top: 1.5rem;">
+  <img src="/assets/img/signature.jpg" alt="Jiaying Wei signature" style="max-width: 180px;">
+</p>
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -25,7 +29,10 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+
 ---
+
 
 
 
