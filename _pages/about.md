@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Computational Design, Carnegie Mellon University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Vina_Wei_profile.jpg
   image_circular: false # set to true if you want a circular cropped profile image
   more_info: >
     <p>School of Architecture</p>
