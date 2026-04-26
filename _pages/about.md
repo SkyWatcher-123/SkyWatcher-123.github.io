@@ -36,5 +36,5 @@ My research and teaching explore topics including multi-robot fabrication, human
 I have taught and developed graduate-level coursework in architectural robotics with perception, including Diffusion policy, ROS-based system integration, depth sensing, AprilTag/QR-based localization, YOLO-based detection and segmentation, MoveIt-based robotic motion planning, and interactive robotic fabrication workflows.
 
 <p style="margin-top: 1.5rem;">
-  <img src="{{ '/assets/img/signature.png' | relative_url }}" alt="Jiaying Wei signature" style="max-width: 180px;">
+  <img src="{{ '/assets/img/signature.jpg' | relative_url }}" alt="Jiaying Wei signature" style="max-width: 180px;">
 </p>
