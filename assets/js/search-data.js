@@ -481,7 +481,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/jiaying_wei_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -491,20 +491,6 @@ ninja.data = [{
           window.open("mailto:%6A%77%65%69%33@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -512,11 +498,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=nmMXEqQAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-whatsapp',
+        title: 'whatsapp',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://wa.me/16073799630 (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)", "_blank");
         },
       },{
       id: 'light-theme',
