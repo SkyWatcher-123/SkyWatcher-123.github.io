@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Color Mixing
+title: ML Color Mixing
 description: machine learning for color-mixing
 img: assets/img/4.jpg
 importance: 1
