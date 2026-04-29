@@ -446,8 +446,8 @@ ninja.data = [{
           description: "FEA for structure assembly",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-color-mixing",
-          title: 'Color Mixing',
+            },},{id: "projects-ml-color-mixing",
+          title: 'ML Color Mixing',
           description: "machine learning for color-mixing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
