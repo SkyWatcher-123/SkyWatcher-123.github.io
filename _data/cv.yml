@@ -6,8 +6,8 @@ cv:
   image: ""
   summary: >-
     Jiaying (Vina) Wei is a Ph.D. candidate in Computational Design at Carnegie Mellon University School of Architecture.
-    Her research focuses on architectural robotics, robotic perception, multi-robot construction workflows, and computational design-to-fabrication systems.
-    She has a background in digital assembly, robotic fabrication, and computational design.
+    Her research focuses on architectural robotics, robotic perception, multi-robot construction workflows, and computational
+    design-to-fabrication systems. Her work connects robotic planning, sensing, machine learning, and architectural fabrication.
 
   social_networks:
     - network: GitHub
@@ -25,61 +25,74 @@ cv:
       - institution: Carnegie Mellon University
         location: Pittsburgh, PA
         url: https://www.architecture.cmu.edu/profiles/jiaying-wei
-        area: Computational Design
-        studyType: Ph.D.
+        area: Computational Design, School of Architecture
+        studyType: Ph.D. Candidate
         start_date: "2023"
         end_date: Present
         highlights:
-          - Ph.D. candidate in Computational Design, School of Architecture.
-          - Research in architectural robotics, robotic perception, and heterogeneous multi-robot construction workflows.
+          - Advisor: Prof. Joshua Bard.
+          - Co-advisor: Prof. Daniel Cardoso Llach.
+          - External committee member: Prof. Jiaoyang Li.
 
       - institution: Carnegie Mellon University
         location: Pittsburgh, PA
-        area: Computational Design
-        studyType: M.S.
-        start_date: ""
-        end_date: ""
+        area: Computational Design, School of Architecture
+        studyType: Master of Science
+        start_date: "2021"
+        end_date: "2023"
         highlights:
-          - Master of Science in Computational Design.
+          - Advisor: Prof. Joshua Bard.
+          - Co-advisor: Prof. Daniel Cardoso Llach.
 
       - institution: Cornell University
         location: Ithaca, NY
-        area: Architecture
-        studyType: B.Arch
+        area: Architecture, College of Architecture, Art, and Planning
+        studyType: Bachelor of Architecture
         start_date: "2015"
         end_date: "2020"
-        highlights:
-          - Bachelor of Architecture.
-
-    Experience:
-      - company: Carnegie Mellon University School of Architecture
-        position: Ph.D. Researcher
-        location: Pittsburgh, PA
-        start_date: "2023"
-        end_date: Present
-        summary: Research in architectural robotics, robotic perception, and computational design-to-fabrication workflows.
-        highlights:
-          - Develops robotic workflows for multi-robot construction and assembly.
-          - Works with ROS, MoveIt, robot perception, depth sensing, and design-to-fabrication pipelines.
-
-    Teaching:
-      - institution: Carnegie Mellon University School of Architecture
-        position: Instructor, 48757 Architectural Robotics with Perception
-        location: Pittsburgh, PA
-        start_date: "2026"
-        end_date: "2026"
-        highlights:
-          - Taught a graduate-level course on robotic perception, ROS-based system integration, and architectural robotics.
-          - Guided student projects involving sensing, perception, robotic motion, and fabrication workflows.
 
     Publications:
-      - title: A Hierarchical Gesture-guided Framework for Multi-manipulator Fabrication and Collaboration
+      - title: Sequencing Optimization of Stability-Aware Robotic Assembly for Discrete Frame Structures
+        authors:
+          - Jiaying Wei
+          - Juney Lee
+          - Joshua Bard
+        publisher: Proceedings of IASS Annual Symposia, vol. 2025, no. 3, pp. 1-10, International Association for Shell and Spatial Structures (IASS)
+        releaseDate: "2025"
+
+      - title: "Robot in the Loop: A Human-Centered Approach to Contextualizing AI and Robotics in Construction"
+        authors:
+          - Yuning Wu
+          - Emek Erdolu
+          - Jiaying Wei
+          - Jean Oh
+          - Daniel Cardoso Llach
+        publisher: Construction Robotics, vol. 9, no. 1, p. 1, Springer International Publishing
+        releaseDate: "2025"
+
+      - title: "Towards Human-Centered Construction Robotics: A Reinforcement Learning-Driven Companion Robot for Contextually Assisting Carpentry Workers"
+        authors:
+          - Yuning Wu
+          - Jiaying Wei
+          - Jean Oh
+          - Daniel Cardoso Llach
+        publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 90-97, IEEE
+        releaseDate: "2024"
+
+      - title: A Hierarchical Gesture-Guided Framework for Multi-Manipulator Fabrication and Collaboration
         authors:
           - Jiaying Wei
           - Joshua Bard
-        publisher: 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+        publisher: 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), pp. 438-445, IEEE
         releaseDate: "2024"
-        summary: Conference paper on gesture-guided multi-manipulator fabrication and collaboration.
+
+      - title: "Responsive Robotic Assembly System With Heterogeneous Materials: A Case Study with Unprocessed Wood"
+        authors:
+          - Jiaying Wei
+          - Daniel Cardoso Llach
+          - Joshua Bard
+        publisher: "ACADIA 2023: Habits of the Anthropocene: Scarcity and Abundance in a Post-Material Economy, vol. 2, pp. 352-360"
+        releaseDate: "2023"
 
       - title: Collaborative Robotic Painting and Paint Mixing Demonstration
         authors:
@@ -88,44 +101,168 @@ cv:
           - Joong Ho Choi
           - Eunsu Kang
           - Jean Oh
-        publisher: Companion Publication of the 2023 ACM Designing Interactive Systems Conference
+        publisher: Companion Publication of the 2023 ACM Designing Interactive Systems Conference, pp. 292-296
         releaseDate: "2023"
-        summary: Demonstration paper on collaborative robotic painting and paint mixing.
 
-      - title: "Responsive Robotic Assembly System With Heterogeneous Materials: A Case Study with Unprocessed Wood"
-        authors:
-          - Jiaying Wei
-          - Daniel Cardoso Llach
-          - Joshua Bard
-        publisher: ACADIA 2023
-        releaseDate: "2023"
-        summary: Paper on responsive robotic assembly workflows with heterogeneous materials.
+    Research Experience:
+      - company: Carnegie Mellon University School of Architecture
+        position: Doctoral Research Assistantship - Robotic Plastering with Diffusion Policy
+        location: Pittsburgh, PA
+        start_date: "2024"
+        end_date: Present
+        summary: "PI: Joshua Bard."
+        highlights:
+          - Developing an imitation-learning workflow for robotic plastering using diffusion policy.
+          - Work includes data collection, model training, and deployment on heavy-payload industrial robotic systems.
+
+      - company: Carnegie Mellon University
+        position: Graduate Research Assistantship - Rethinking Automation with Construction
+        location: Pittsburgh, PA
+        start_date: "2021"
+        end_date: "2023"
+        summary: "PIs: Daniel Cardoso Llach and Jean Oh."
+        highlights:
+          - Developed mobile-robot navigation and sensing workflows for human-centered construction robotics.
+          - Integrated SLAM, UGV hardware, IoT interaction, and construction-site observation.
+
+      - company: Carnegie Mellon University
+        position: Graduate Research Assistantship - Robotic Pigment Mixing with Machine Learning
+        location: Pittsburgh, PA
+        start_date: "2021"
+        end_date: "2023"
+        summary: "Advisor: Eunsu Kang."
+        highlights:
+          - Developed a robotic pigment-mixing and painting workflow using machine-learning-based color prediction and dataset collection.
+
+      - company: Carnegie Mellon University
+        position: Graduate Research Assistantship - Binder-Jetting 3D Printing Concrete
+        location: Pittsburgh, PA
+        start_date: "2021"
+        end_date: "2023"
+        summary: "PI: Joshua Bard."
+        highlights:
+          - Conducted aggregate mixture experiments and testing.
+          - Designed and fabricated an actuated printing bed.
+          - Worked on geometry and structural design for concrete binder-jetting workflows.
+
+      - company: Cornell University
+        position: Undergraduate Research Assistantship - Self-Built Housing System in Urban-Rural China
+        location: Ithaca, NY
+        start_date: "2019"
+        end_date: "2019"
+        summary: "PI: Leslie Lok."
+        highlights:
+          - Studied urban development paradigms, construction systems based on local materials and resources, and housing typologies.
+
+    Teaching Experience:
+      - institution: Carnegie Mellon University School of Architecture
+        position: Sole Instructor, 48-757 Architectural Robotics with Perception
+        location: Pittsburgh, PA
+        start_date: Spring 2026
+        end_date: Spring 2026
+        highlights:
+          - Designed and taught a new graduate-level course introducing perception-enabled robotic workflows for architectural design and fabrication.
+          - Topics included ROS-based robotic systems, computer vision, depth sensing, object detection/segmentation, motion planning, human-robot interaction, and integrated final project development.
+
+      - institution: Carnegie Mellon University School of Architecture
+        position: Teaching Assistant / Co-Instructor, 48-555/48-755 Introduction to Architectural Robotics
+        location: Pittsburgh, PA
+        start_date: Fall 2025
+        end_date: Fall 2025
+        highlights:
+          - Developed assignments for students to master principal robot planning skills for ABB robot motion and execution.
+          - Supervised and mentored final projects.
+
+      - institution: Carnegie Mellon University School of Architecture
+        position: Teaching Assistant, Fundamentals of Computational Design
+        location: Pittsburgh, PA
+        start_date: Spring 2025
+        end_date: Spring 2025
+        highlights:
+          - Developed syllabus modules.
+          - Mentored student projects and participated in reviews.
+
+      - institution: Carnegie Mellon University School of Architecture
+        position: Teaching Assistant / Co-Instructor, 48-555/48-755 Introduction to Architectural Robotics
+        location: Pittsburgh, PA
+        start_date: Fall 2024
+        end_date: Fall 2024
+        highlights:
+          - Developed assignments for students to master principal robot planning skills for ABB robot motion and execution.
+          - Supervised and mentored final projects.
+
+      - institution: Carnegie Mellon University School of Architecture
+        position: Teaching Assistant, Fundamentals of Computational Design
+        location: Pittsburgh, PA
+        start_date: Spring 2024
+        end_date: Spring 2024
+        highlights:
+          - Led Grasshopper and Kangaroo labs for computational design.
+          - Mentored student projects and participated in reviews.
+
+      - institution: Carnegie Mellon University School of Architecture
+        position: Teaching Assistant, Generative Modeling
+        location: Pittsburgh, PA
+        start_date: Fall 2023
+        end_date: Fall 2023
+        highlights:
+          - Held student office hours for debugging and technical support.
+
+    Advising and Mentoring:
+      - institution: Carnegie Mellon University School of Architecture
+        position: MSCD Thesis Committee Member / Advisor
+        location: Pittsburgh, PA
+        start_date: "2026"
+        end_date: "2026"
+        highlights:
+          - "Advisee: Carla Flores Trávez, Playful Computation: Encounters with Ephemeral Surfaces, Master of Science in Computational Design, CMU."
+
+    Invited Talks:
+      - title: AI Panel at CMU AIAS NEQ Conference
+        position: Invited panelist
+        date: "2024"
+        summary: Invited panelist for an AI-focused discussion at the CMU AIAS NEQ Conference.
+
+    Professional Experience:
+      - company: AECOM, China
+        position: Junior Architect
+        location: China
+        start_date: "2020"
+        end_date: "2021"
+
+      - company: Hasting Architecture
+        position: Intern
+        start_date: Summer 2018
+        end_date: Summer 2018
+
+    Fellowships:
+      - title: Summer 2025 TCS Fellowship
+        date: "2025"
+
+    Service:
+      - title: CMU School of Architecture Public Programs Committee
+        date: 2024-2025
 
     Skills:
-      - name: Robotics and Fabrication
+      - name: Robotics
         level: Advanced
         icon: fa-solid fa-robot
-        keywords: ROS, MoveIt, robotic fabrication, multi-robot systems, architectural robotics
+        keywords: ROS/ROS2, manipulator planning, multi-robot planning, SLAM, navigation, robot hardware integration, IoT
 
-      - name: Computational Design
-        level: Advanced
-        icon: fa-solid fa-cube
-        keywords: parametric modeling, design-to-fabrication, digital assembly, computational geometry
-
-      - name: Perception and Vision
+      - name: Perception and Algorithm
         level: Advanced
         icon: fa-solid fa-camera
-        keywords: depth sensing, point clouds, Markers, object detection, segmentation
+        keywords: Computer vision, 3D reconstruction, object detection and tracking, deep learning, imitation learning, Python, C++, Linux, Git
 
-      - name: Machine Learning
+      - name: Design and Fabrication
         level: Advanced
-        icon: fa-solid fa-robot
-        keywords: Deep learning, imitation learning
+        icon: fa-solid fa-cube
+        keywords: Industrial robotic fabrication, Rhino/Grasshopper, Unity, digital fabrication
 
     Languages:
       - name: Chinese
-        summary: Native speaker
+        summary: Native
       - name: English
-        summary: Full Professional
+        summary: Professional
       - name: French
-        summary: Proficient
+        summary: B1
