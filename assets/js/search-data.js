@@ -432,7 +432,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-perceptive-drawing",
-          title: 'perceptive drawing',
+          title: 'Perceptive Drawing',
           description: "ITAR Assignment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
