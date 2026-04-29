@@ -1,6 +1,6 @@
 ---
 layout: page
-title: perceptive drawing
+title: Perceptive Drawing
 description: ITAR Assignment
 img:
 importance: 3
